@@ -1,0 +1,15 @@
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\bin\Debug\login_system.exe.config
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\bin\Debug\login_system.exe
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\bin\Debug\login_system.pdb
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.csproj.AssemblyReference.cache
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Form1.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Form2.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Form3.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Form4.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Form5.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.Properties.Resources.resources
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.csproj.GenerateResource.cache
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.exe
+C:\Users\Huseyn Naghiyev\source\repos\login_system\login_system\obj\Debug\login_system.pdb
